@@ -1,0 +1,10 @@
+
+
+requests
+pandas
+matplotlib
+streamlit
+
+# Run the following in the terminal to install the listed packages:
+# pip install -r requirements.txt
+
